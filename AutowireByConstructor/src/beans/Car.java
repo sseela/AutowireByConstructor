@@ -21,10 +21,10 @@ public class Car {
 	}
 
 	
-	public void setEngine(Engine engine) {
+	/*public void setEngine(Engine engine) {
 		System.out.println("setter injecting engine");
 		this.engine = engine;
-	}
+	}*/
 
 	public int getPrice() {
 		return price;
